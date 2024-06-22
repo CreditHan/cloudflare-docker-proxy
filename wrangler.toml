@@ -31,5 +31,5 @@ name = "cloudflare-docker-proxy-staging"
 # route = { pattern = "docker-staging.credit.x10.mx", custom_domain = true }
 
 [env.staging.vars]
-MODE = “暂存”
+MODE = "staging"
 TARGET_UPSTREAM = ""
